@@ -42,7 +42,7 @@ body {
     padding: 20px;
     position: absolute;
     border-radius: 5px;
-    background: black;
+    background: rgba(0, 0, 0, 0.384);
     backface-visibility: hidden;
 }
 
